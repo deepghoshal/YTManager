@@ -1,5 +1,5 @@
 from pymongo import MongoClient
-import bson
+import json
 
 client=MongoClient("mongodb+srv://deepghoshal2002:FYOQQVMgFflewgi3@practicedb.ay2ds.mongodb.net/")
 
